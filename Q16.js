@@ -8,7 +8,7 @@
           { title: "Running Shoes", price: 120.00 }
         ];
 
-        // Loop through each element in the array
+    
         products.forEach(product => {
           
           const div = document.createElement("div");
@@ -23,7 +23,7 @@
           div.appendChild(h1);
           div.appendChild(p);
 
-          /
+          
           document.body.appendChild(div);
         });
    
