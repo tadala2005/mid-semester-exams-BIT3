@@ -16,7 +16,7 @@ let order = {
     },
     payment:{
         method: "mobile money",
-        Phone: 0909783424,
+        Phone: 89898989,
         transID: "ie732trgfuybe"
     },
     delivary: {
